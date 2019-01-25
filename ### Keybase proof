@@ -1,0 +1,80 @@
+
+### Keybase proof
+
+I hereby claim:
+
+  * I am PearlOkkervile on github.
+  * I am pearl_okkervil (https://keybase.io/pearl_okkervil) on keybase.
+  * I have a public key whose fingerprint is 8C6F 7D85 EE1E 589B 3B17  47C3 4EB9 F827 C403 0569
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bd7ee632911aaf8f68c78385a2ed29cf0ab096c5f46841b2cc2f742d66b0a3690a",
+      "fingerprint": "8c6f7d85ee1e589b3b1747c34eb9f827c4030569",
+      "host": "keybase.io",
+      "key_id": "4eb9f827c4030569",
+      "kid": "0101bd7ee632911aaf8f68c78385a2ed29cf0ab096c5f46841b2cc2f742d66b0a3690a",
+      "uid": "886034b0dadd1385ebdcec661de6c119",
+      "username": "pearl_okkervil"
+    },
+    "service": {
+      "name": "github",
+      "username": "PearlOkkervile"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1548435011,
+  "expire_in": 157680000,
+  "prev": "b8402ada33db04cfc5fda1e2ee62b87c8805717ce2bef8b7d6b2b0fe50b9339c",
+  "seqno": 3,
+  "tag": "signature"
+}
+```
+
+with the key [8C6F 7D85 EE1E 589B 3B17  47C3 4EB9 F827 C403 0569](https://keybase.io/pearl_okkervil), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJZSFRRHMbHTMOhXZxWoi6SSIOdc9dzR9ofKowWQ7RcpnuWO17HZqY7
+M6bZRKkVgW1QmVZQEJkQCFFgKWJmSEobGWEEQwVBew/1UA/RuWIPQY+dl7N93+98
+589/YEqqy50yo9Tje1ZdfCpl+M65uKusYPmaegGHaZ3gqxeCbGxi1ZRFY/6gRQWf
+ACCAmGqMqZKoQ2gYJjJVRDQkIcUQGRV1YgIDA10liimrSIZYJEQ0NVmkqoqBIak6
+MASvYFqhALMjthWKcSwiqqlRpDAGmYJ0LGGoyRqRZIZ1E4kakYEEFFXnxspw1HHw
+cNiIsjwrzM/4xj8W7x/6/5w7PoZDSAWSjAE1KIUcwTAljKgqpEwlEDrvxqPMDhk7
+GVdHmGFX+8PBILNrrGoh4RWizoowp7zjmoAVq4zjv32bHd+mcRtzfLG6iHOxm2H/
+OMKPrRDlteTOGmZHrXBI8EGuJDHLYUBFRrKkAAi9AquNWDbzW45C0VQE+PAKEZvV
+cCRGMhANakgSxUAmJi8DNSATecVEjDSCEFA0qBEmYmYirFEVixiYTAFYlySdCM6n
+doXCgk/iMY0AR0atQMiIxW2evL+vbKIrxe1KT5vg9JjLnTH9T+d96pz0a2lm5tdv
+tV1NW8SKp3N/5G1fRRpbs5q+t651T9/Wc+z5meSGfTc7ygarcO6VjEUfE3hWyckj
+qy/Ih2/lj9RWdKc2XFt36XXaip8Lh8oL5y44es3zemXW3dO7TkV76i6PfN5U3tUy
+b2p5YTLRaRy6eLv91bB9o2Lz+fUHcr8s7gop6d0f3tC3ZOPBYPvjmcNTU5rfWTmx
+moDn8V7vk96BR711Jxoq2/YPeMWSl6ij8v3wr949M3rtqoZ7x87Oyxkqnjb/eG6i
+ccFHecfts6VPywtmuq6vurxsa3NRX3Y7mF02+v5r2/20OUsWp86f/OBh0QvNk39V
+aj78Kjk6WC93fupomZzdn8z4DfJFPX4=
+=J0HX
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/pearl_okkervil
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id pearl_okkervil
+```
